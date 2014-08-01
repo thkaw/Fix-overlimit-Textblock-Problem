@@ -1,0 +1,51 @@
+e:\Users\Nathaniel\Desktop\Douban_Movie-master\Phone.Controls\Bin\Debug\Assets\ApplicationIcon.png
+e:\Users\Nathaniel\Desktop\Douban_Movie-master\Phone.Controls\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+e:\Users\Nathaniel\Desktop\Douban_Movie-master\Phone.Controls\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+e:\Users\Nathaniel\Desktop\Douban_Movie-master\Phone.Controls\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+e:\Users\Nathaniel\Desktop\Douban_Movie-master\Phone.Controls\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+e:\Users\Nathaniel\Desktop\Douban_Movie-master\Phone.Controls\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+e:\Users\Nathaniel\Desktop\Douban_Movie-master\Phone.Controls\Bin\Debug\Phone.Controls.dll
+e:\Users\Nathaniel\Desktop\Douban_Movie-master\Phone.Controls\Bin\Debug\Phone.Controls.pdb
+e:\Users\Nathaniel\Desktop\Douban_Movie-master\Phone.Controls\Bin\Debug\AppManifest.xaml
+e:\Users\Nathaniel\Desktop\Douban_Movie-master\Phone.Controls\Bin\Debug\Properties\WMAppManifest.xml
+e:\Users\Nathaniel\Desktop\Douban_Movie-master\Phone.Controls\Bin\Debug\Phone.Controls_Debug_AnyCPU.xap
+e:\Users\Nathaniel\Desktop\Douban_Movie-master\Phone.Controls\obj\Debug\Phone.Controls.g.resources
+e:\Users\Nathaniel\Desktop\Douban_Movie-master\Phone.Controls\obj\Debug\Phone.Controls.Resources.AppResources.resources
+e:\Users\Nathaniel\Desktop\Douban_Movie-master\Phone.Controls\obj\Debug\Phone.Controls.csproj.GenerateResource.Cache
+e:\Users\Nathaniel\Desktop\Douban_Movie-master\Phone.Controls\obj\Debug\Phone.Controls.dll
+e:\Users\Nathaniel\Desktop\Douban_Movie-master\Phone.Controls\obj\Debug\Phone.Controls.pdb
+e:\Users\Nathaniel\Desktop\Douban_Movie-master\Phone.Controls\obj\Debug\XapCacheFile.xml
+e:\Users\Nathaniel\Documents\Visual Studio 2013\Projects\PhoneApp1\Phone.Controls\Bin\Debug\Assets\ApplicationIcon.png
+e:\Users\Nathaniel\Documents\Visual Studio 2013\Projects\PhoneApp1\Phone.Controls\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+e:\Users\Nathaniel\Documents\Visual Studio 2013\Projects\PhoneApp1\Phone.Controls\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+e:\Users\Nathaniel\Documents\Visual Studio 2013\Projects\PhoneApp1\Phone.Controls\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+e:\Users\Nathaniel\Documents\Visual Studio 2013\Projects\PhoneApp1\Phone.Controls\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+e:\Users\Nathaniel\Documents\Visual Studio 2013\Projects\PhoneApp1\Phone.Controls\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+e:\Users\Nathaniel\Documents\Visual Studio 2013\Projects\PhoneApp1\Phone.Controls\Bin\Debug\Phone.Controls.dll
+e:\Users\Nathaniel\Documents\Visual Studio 2013\Projects\PhoneApp1\Phone.Controls\Bin\Debug\Phone.Controls.pdb
+e:\Users\Nathaniel\Documents\Visual Studio 2013\Projects\PhoneApp1\Phone.Controls\Bin\Debug\AppManifest.xaml
+e:\Users\Nathaniel\Documents\Visual Studio 2013\Projects\PhoneApp1\Phone.Controls\Bin\Debug\Properties\WMAppManifest.xml
+e:\Users\Nathaniel\Documents\Visual Studio 2013\Projects\PhoneApp1\Phone.Controls\Bin\Debug\Phone.Controls_Debug_AnyCPU.xap
+e:\Users\Nathaniel\Documents\Visual Studio 2013\Projects\PhoneApp1\Phone.Controls\obj\Debug\Phone.Controls.g.resources
+e:\Users\Nathaniel\Documents\Visual Studio 2013\Projects\PhoneApp1\Phone.Controls\obj\Debug\Phone.Controls.Resources.AppResources.resources
+e:\Users\Nathaniel\Documents\Visual Studio 2013\Projects\PhoneApp1\Phone.Controls\obj\Debug\Phone.Controls.csproj.GenerateResource.Cache
+e:\Users\Nathaniel\Documents\Visual Studio 2013\Projects\PhoneApp1\Phone.Controls\obj\Debug\Phone.Controls.dll
+e:\Users\Nathaniel\Documents\Visual Studio 2013\Projects\PhoneApp1\Phone.Controls\obj\Debug\Phone.Controls.pdb
+e:\Users\Nathaniel\Documents\Visual Studio 2013\Projects\PhoneApp1\Phone.Controls\obj\Debug\XapCacheFile.xml
+e:\Users\Nathaniel\Documents\visual studio 2013\Projects\Fix overlimit Textbox Problem\Phone.Controls\Bin\Debug\Assets\ApplicationIcon.png
+e:\Users\Nathaniel\Documents\visual studio 2013\Projects\Fix overlimit Textbox Problem\Phone.Controls\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+e:\Users\Nathaniel\Documents\visual studio 2013\Projects\Fix overlimit Textbox Problem\Phone.Controls\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+e:\Users\Nathaniel\Documents\visual studio 2013\Projects\Fix overlimit Textbox Problem\Phone.Controls\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+e:\Users\Nathaniel\Documents\visual studio 2013\Projects\Fix overlimit Textbox Problem\Phone.Controls\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+e:\Users\Nathaniel\Documents\visual studio 2013\Projects\Fix overlimit Textbox Problem\Phone.Controls\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+e:\Users\Nathaniel\Documents\visual studio 2013\Projects\Fix overlimit Textbox Problem\Phone.Controls\Bin\Debug\Phone.Controls.dll
+e:\Users\Nathaniel\Documents\visual studio 2013\Projects\Fix overlimit Textbox Problem\Phone.Controls\Bin\Debug\Phone.Controls.pdb
+e:\Users\Nathaniel\Documents\visual studio 2013\Projects\Fix overlimit Textbox Problem\Phone.Controls\Bin\Debug\AppManifest.xaml
+e:\Users\Nathaniel\Documents\visual studio 2013\Projects\Fix overlimit Textbox Problem\Phone.Controls\Bin\Debug\Properties\WMAppManifest.xml
+e:\Users\Nathaniel\Documents\visual studio 2013\Projects\Fix overlimit Textbox Problem\Phone.Controls\Bin\Debug\Phone.Controls_Debug_AnyCPU.xap
+e:\Users\Nathaniel\Documents\visual studio 2013\Projects\Fix overlimit Textbox Problem\Phone.Controls\obj\Debug\Phone.Controls.g.resources
+e:\Users\Nathaniel\Documents\visual studio 2013\Projects\Fix overlimit Textbox Problem\Phone.Controls\obj\Debug\Phone.Controls.Resources.AppResources.resources
+e:\Users\Nathaniel\Documents\visual studio 2013\Projects\Fix overlimit Textbox Problem\Phone.Controls\obj\Debug\Phone.Controls.csproj.GenerateResource.Cache
+e:\Users\Nathaniel\Documents\visual studio 2013\Projects\Fix overlimit Textbox Problem\Phone.Controls\obj\Debug\Phone.Controls.dll
+e:\Users\Nathaniel\Documents\visual studio 2013\Projects\Fix overlimit Textbox Problem\Phone.Controls\obj\Debug\Phone.Controls.pdb
+e:\Users\Nathaniel\Documents\visual studio 2013\Projects\Fix overlimit Textbox Problem\Phone.Controls\obj\Debug\XapCacheFile.xml
